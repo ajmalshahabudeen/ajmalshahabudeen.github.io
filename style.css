@@ -1,0 +1,10 @@
+.box{
+    min-width: 100vw;
+    min-height: 100vh;
+    background-color: aquamarine;
+    overflow: hidden;
+}
+
+.container-fluid{
+    overflow: hidden;
+}
